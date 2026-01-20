@@ -1,0 +1,4 @@
+TODO: Write more tests
+TODO: Create macro for implementing build for each QueryBuilder type
+TODO: Maybe add build into SQLType trait
+TODO: Properly create and use SQLType::{KEYWORD, build_base}
